@@ -2,7 +2,7 @@
 
 ## I'am Zi, and this is another M. E. R . N stack project
 
-### This project is a clone for the interface of tinder
+### This project is a clone of the tinder  interface  
 
 ### Its live runing on :  https://tinder-clone-1111.web.app/  rigth now
 
