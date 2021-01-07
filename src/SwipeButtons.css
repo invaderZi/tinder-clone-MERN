@@ -8,36 +8,37 @@
 }
 
 .swipedButtons .MuiIconButton-root{
-    background-color:white;
     box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3) !important;
+    background-color:white;
+
 }
 
 .repeat_button{
     padding: 3vw !important;
-    color: #f5b748
+    color: #f5b748 !important;
 
 }
 
 .dislikeButton{
     padding: 3vw !important;
-    color: #ec5e6f
+    color: #ec5e6f !important;
 
 }
 
 .starButton{
     padding: 3vw !important;
-    color: #62b4f9
+    color: #62b4f9 !important;
 
 }
 
 
 .likeButton{
     padding: 3vw !important;
-    color: #76e2b3
+    color: #76e2b3 !important;
 }
 
 .flashButton{
     padding: 3vw !important;
-    color: #915dd1
+    color: #915dd1 !important;
 
 }
