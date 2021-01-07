@@ -1,6 +1,7 @@
 import './App.css';
 import Card from './Card';
 import Header from './Header';
+import SwipeButtons from './SwipeButtons';
 
 
 
@@ -13,6 +14,7 @@ function App() {
      {/*Photo*/}
      <Card/>
      {/*buttons*/}
+     <SwipeButtons/>
 
     </div>
   );
